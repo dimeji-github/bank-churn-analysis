@@ -64,13 +64,13 @@ False Positives: Customers who were incorrectly identified as churned but stayed
 False Negatives: Customers predicted to stay but actually left.
 
 #### Insights
-Germany had the highest churn rate relative to its customer base, while France had the lowest.
-A larger percentage of female customers churned compared to males.
-Younger customers and those with shorter tenure were more likely to churn.
-Customers with lower balances and estimated salaries were more likely to leave the bank.
+- Germany had the highest churn rate relative to its customer base, while France had the lowest.
+- A larger percentage of female customers churned compared to males.
+- Younger customers and those with shorter tenure were more likely to churn.
+- Customers with lower balances and estimated salaries were more likely to leave the bank.
 
 #### Recommendations
-Tailor retention strategies for customers in Germany through localized marketing and customer service improvements.
-Focus on providing products and services that meet the needs of customers under 35.
-Build stronger relationships with customers during their first three years with the bank to improve retention.
-Investigate why a higher percentage of female customers are leaving and tailor services to address their concerns.
+- Tailor retention strategies for customers in Germany through localized marketing and customer service improvements.
+- Focus on providing products and services that meet the needs of customers under 35.
+- Build stronger relationships with customers during their first three years with the bank to improve retention.
+- Investigate why a higher percentage of female customers are leaving and tailor services to address their concerns.
